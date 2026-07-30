@@ -1,101 +1,163 @@
-# Hi there, I'm Omar Youssef 👋
+<h1 align="center">Hi 👋, I'm Omar Youssef</h1>
 
-## Software Engineer
+<h3 align="center">
+Software Engineer
+</h3>
 
-I'm a Software Engineer with professional experience building scalable backend systems.
+<p align="center">
+Passionate about building scalable backend systems, distributed applications, and high-performance software.
+</p>
 
-I enjoy designing systems, solving performance challenges, problem solving and building reliable distributed systems. Currently, I'm focused on becoming a world-class backend engineer by deepening my knowledge of system design, distributed systems, cloud technologies and high-performance applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmarYoussefElgoerany&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- ☕ Specialized in Java, C#, TypeScript, .Net, Spring Boot and NodeJs.
-- 🏗️ Experienced with Microservices Architecture
-- 📡 Built asynchronous systems using RabbitMQ
-- ☁️ Worked with AWS S3 and Docker
-- 🗄️ Strong SQL & Database Design knowledge
-- 📈 Passionate about Performance Optimization
-- 🌍 Open to Remote and International Opportunities
+
+- 💼Software Engineer
+- 🌍 Open to **Remote, Relocation, and International Opportunities**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-- Java
-- C#
-- JavaScript
-- TypeScript
-- Go
-- Python
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,go,py,html,css" />
+</p>
 
-### Backend
-
-- Spring Boot
-- ASP.NET Core
-- REST APIs
-- GraphQL
-- RabbitMQ
-- JWT Authentication
-
-### Databases
-
-- MySQL
-- PostgreSQL
-- SQL Server
-
-### DevOps & Cloud
-
-- Docker
-- AWS S3
-- Git
+`Java` • `C#` • `JavaScript` • `TypeScript` • `Go` • `Python` • `HTML5` • `CSS3` • `SQL`
 
 ---
 
+### ⚙️ Backend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs" />
+</p>
 
-
-**Tech Stack**
-
-Java • Spring Boot • Angular • MySQL
+`Spring Boot` • `.NET Core` • `REST APIs` • `GraphQL` • `JWT Authentication`
 
 ---
 
-## 📚 Currently Learning
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular" />
+</p>
+
+`Angular`
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+`MySQL` • `PostgreSQL` • `SQL Server`
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+</p>
+
+`Docker` • `AWS S3` • `Git` • `GitHub`
+
+---
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,postman" />
+</p>
+
+`RabbitMQ` • `Postman`
+
+---
+
+# 💼 Professional Experience
+
+## Backend Software Engineer — Bitbang
+
+- Built backend services for **IN2 Fitness**, a multi-branch gym management platform serving Saudi Arabia.
+- Implemented member management and subscription workflows.
+- Designed scheduled background jobs for subscription validation.
+- Built asynchronous processing pipelines using RabbitMQ for report generation.
+- Leveraged database replication to offload heavy reporting queries from the primary database.
+- Integrated secure file uploads using AWS S3.
+
+---
+
+# 🧠 Areas of Expertise & Knowledge
 
 - Distributed Systems
 - System Design
+- Data-Intensive Applications
+- Software Architecture
+- Event-Driven Architecture
+- Apache Kafka
+- RabbitMQ
+- Redis
 - Kubernetes
 - AWS
-- Redis
-- Apache Kafka
-- Design Patterns
-- High Performance Backend Engineering
-
+- High-Performance Backend Engineering
+- Database Design & Performance Optimization
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmarYoussefElgoerany&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarYoussefElgoerany&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=OmarYoussefElgoerany&theme=tokyonight"/>
 </p>
 
 ---
 
+# 📈 Contribution Graph
 
-## 📫 Connect With Me
-
-- 📧 **Email:** omarelgoerany97@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/omar-youssef-1a565b179/
-- 🌐 **GitHub:** https://github.com/YOUR_USERNAME
+[![Omar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarYoussefElgoerany&theme=tokyo-night)](https://github.com/OmarYoussefElgoerany)
 
 ---
 
-> *"Great software is built through clean design, continuous learning, and attention to detail."*
+# 🧩 LeetCode
+
+<p align="center">
+<a href="https://leetcode.com/u/omarelgoerany97/">
+<img src="https://leetcard.jacoblin.cool/omarelgoerany97?theme=dark&font=Baloo&ext=contest"/>
+</a>
+</p>
+
+---
+
+# 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:omarelgoerany97@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/omarelgoerany97/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+---
+
+> *"Building scalable software, solving challenging problems, and continuously learning to become a world-class backend engineer."*
