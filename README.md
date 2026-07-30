@@ -39,7 +39,7 @@ Passionate about building scalable backend systems, distributed applications, an
   <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs" />
 </p>
 
-`Spring Boot` • `.NET Core` • `REST APIs` • `GraphQL` • `JWT Authentication`
+`Spring Boot` • `.NET Core` • `NodeJS` • `REST APIs` • `GraphQL` •`
 
 ---
 
@@ -83,18 +83,6 @@ Passionate about building scalable backend systems, distributed applications, an
 
 ---
 
-# 💼 Professional Experience
-
-## Backend Software Engineer — Bitbang
-
-- Built backend services for **IN2 Fitness**, a multi-branch gym management platform serving Saudi Arabia.
-- Implemented member management and subscription workflows.
-- Designed scheduled background jobs for subscription validation.
-- Built asynchronous processing pipelines using RabbitMQ for report generation.
-- Leveraged database replication to offload heavy reporting queries from the primary database.
-- Integrated secure file uploads using AWS S3.
-
----
 
 # 🧠 Areas of Expertise & Knowledge
 
