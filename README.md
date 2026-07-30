@@ -133,7 +133,7 @@ Passionate about building scalable backend systems, distributed applications, an
 # 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/omar-youssef-1a565b179/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
